@@ -1,0 +1,802 @@
+[
+      {
+            "No": "1.",
+            "Judul": "Euphoria",
+            "Tahun": "(2019- )",
+            "Rating": "8.5",
+            "Image": "https://m.media-amazon.com/images/M/MV5BMDMzZDkyNzEtYTY5Ni00NzlhLWI4MzUtY2UzNjNmMjI1YzIzXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+            "waktu_scrapping": "18-03-2022 20:24:58"
+      },
+      {
+            "No": "2.",
+            "Judul": "Winning Time: The Rise of the Lakers Dynasty",
+            "Tahun": "(2022- )",
+            "Rating": "8.4",
+            "Image": "https://m.media-amazon.com/images/M/MV5BMTI1NTdiZDgtM2RiZC00OGI0LWI5NDAtNzJmMjYzYjE5NmNiXkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_UX67_CR0,0,67,98_AL_.jpg",
+            "waktu_scrapping": "18-03-2022 20:24:59"
+      },
+      {
+            "No": "3.",
+            "Judul": "Outlander",
+            "Tahun": "(2014- )",
+            "Rating": "8.5",
+            "Image": "https://m.media-amazon.com/images/M/MV5BNTY0MGQyMTYtNDNmNy00ZWRjLTg3YzItNWNjZDc3N2RkMGMyXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_UX67_CR0,0,67,98_AL_.jpg",
+            "waktu_scrapping": "18-03-2022 20:25:00"
+      },
+      {
+            "No": "4.",
+            "Judul": "The Dark Knight",
+            "Tahun": "(2008)",
+            "Rating": "9.1",
+            "Image": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+            "waktu_scrapping": "18-03-2022 20:25:01"
+      },
+      {
+            "No": "5.",
+            "Judul": "Game of Thrones",
+            "Tahun": "(2011-2019)",
+            "Rating": "9.3",
+            "Image": "https://m.media-amazon.com/images/M/MV5BYTRiNDQwYzAtMzVlZS00NTI5LWJjYjUtMzkwNTUzMWMxZTllXkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_UY98_CR2,0,67,98_AL_.jpg",
+            "waktu_scrapping": "18-03-2022 20:25:02"
+      },
+      {
+            "No": "6.",
+            "Judul": "The Gilded Age",
+            "Tahun": "(2022- )",
+            "Rating": "8.1",
+            "Image": "https://m.media-amazon.com/images/M/MV5BZTcyODBlMjktYzgyMy00YTczLWI3ZDktYmY3Y2JjODE2MzZhXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+            "waktu_scrapping": "18-03-2022 20:25:03"
+      },
+      {
+            "No": "7.",
+            "Judul": "The Righteous Gemstones",
+            "Tahun": "(2019- )",
+            "Rating": "8.2",
+            "Image": "https://m.media-amazon.com/images/M/MV5BNDViYzhjZjItNjBkYS00NjE5LWI1M2ItODhkZGM2NzI4YzE0XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+            "waktu_scrapping": "18-03-2022 20:25:04"
+      },
+      {
+            "No": "8.",
+            "Judul": "Succession",
+            "Tahun": "(2018- )",
+            "Rating": "8.8",
+            "Image": "https://m.media-amazon.com/images/M/MV5BZDE0ODVlYjktNjJiMC00ODk4LWIwNTktMWRhZmZiOGFhYmUwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UY98_CR5,0,67,98_AL_.jpg",
+            "waktu_scrapping": "18-03-2022 20:25:05"
+      },
+      {
+            "No": "9.",
+            "Judul": "Batman Begins",
+            "Tahun": "(2005)",
+            "Rating": "8.3",
+            "Image": "https://m.media-amazon.com/images/M/MV5BOTY4YjI2N2MtYmFlMC00ZjcyLTg3YjEtMDQyM2ZjYzQ5YWFkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX67_CR0,0,67,98_AL_.jpg",
+            "waktu_scrapping": "18-03-2022 20:25:06"
+      },
+      {
+            "No": "10.",
+            "Judul": "The Dark Knight Rises",
+            "Tahun": "(2012)",
+            "Rating": "8.4",
+            "Image": "https://m.media-amazon.com/images/M/MV5BMTk4ODQzNDY3Ml5BMl5BanBnXkFtZTcwODA0NTM4Nw@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+            "waktu_scrapping": "18-03-2022 20:25:07"
+      },
+      {
+            "No": "11.",
+            "Judul": "The Sopranos",
+            "Tahun": "(1999-2007)",
+            "Rating": "9.2",
+            "Image": "https://m.media-amazon.com/images/M/MV5BZGJjYzhjYTYtMDBjYy00OWU1LTg5OTYtNmYwOTZmZjE3ZDdhXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UY98_CR1,0,67,98_AL_.jpg",
+            "waktu_scrapping": "18-03-2022 20:25:08"
+      },
+      {
+            "No": "12.",
+            "Judul": "Batman Forever",
+            "Tahun": "(1995)",
+            "Rating": "5.4",
+            "Image": "https://m.media-amazon.com/images/M/MV5BNDdjYmFiYWEtYzBhZS00YTZkLWFlODgtY2I5MDE0NzZmMDljXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX67_CR0,0,67,98_AL_.jpg",
+            "waktu_scrapping": "18-03-2022 20:25:09"
+      },
+      {
+            "No": "13.",
+            "Judul": "Chernobyl",
+            "Tahun": "(2019)",
+            "Rating": "9.4",
+            "Image": "https://m.media-amazon.com/images/M/MV5BZGQ2YmMxZmEtYjI5OS00NzlkLTlkNTEtYWMyMzkyMzc2MDU5XkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_UX67_CR0,0,67,98_AL_.jpg",
+            "waktu_scrapping": "18-03-2022 20:25:10"
+      },
+      {
+            "No": "14.",
+            "Judul": "Black Mirror",
+            "Tahun": "(2011-2019)",
+            "Rating": "8.8",
+            "Image": "https://m.media-amazon.com/images/M/MV5BYTM3YWVhMDMtNjczMy00NGEyLWJhZDctYjNhMTRkNDE0ZTI1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+            "waktu_scrapping": "18-03-2022 20:25:11"
+      },
+      {
+            "No": "15.",
+            "Judul": "Batman & Robin",
+            "Tahun": "(1997)",
+            "Rating": "3.7",
+            "Image": "https://m.media-amazon.com/images/M/MV5BMGQ5YTM1NmMtYmIxYy00N2VmLWJhZTYtN2EwYTY3MWFhOTczXkEyXkFqcGdeQXVyNTA2NTI0MTY@._V1_UX67_CR0,0,67,98_AL_.jpg",
+            "waktu_scrapping": "18-03-2022 20:25:11"
+      },
+      {
+            "No": "16.",
+            "Judul": "Westworld",
+            "Tahun": "(2016- )",
+            "Rating": "8.6",
+            "Image": "https://m.media-amazon.com/images/M/MV5BMTRmYzNmOTctZjMwOS00ODZlLWJiZGQtNDg5NDY5NjE3MTczXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+            "waktu_scrapping": "18-03-2022 20:25:12"
+      },
+      {
+            "No": "17.",
+            "Judul": "The Wire",
+            "Tahun": "(2002-2008)",
+            "Rating": "9.3",
+            "Image": "https://m.media-amazon.com/images/M/MV5BNTllYzFhMjAtZjExNS00MjM4LWE5YmMtOGFiZGRlOTU5YzJiXkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_UX67_CR0,0,67,98_AL_.jpg",
+            "waktu_scrapping": "18-03-2022 20:25:13"
+      },
+      {
+            "No": "18.",
+            "Judul": "True Detective",
+            "Tahun": "(2014-2019)",
+            "Rating": "8.9",
+            "Image": "https://m.media-amazon.com/images/M/MV5BMmRlYmE0Y2UtNDk2Yi00NzczLWEwZTEtZmE2OTcyYzcxYmU5XkEyXkFqcGdeQXVyNTMxMjgxMzA@._V1_UY98_CR1,0,67,98_AL_.jpg",
+            "waktu_scrapping": "18-03-2022 20:25:14"
+      },
+      {
+            "No": "19.",
+            "Judul": "Interstellar",
+            "Tahun": "(2014)",
+            "Rating": "8.7",
+            "Image": "https://m.media-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX67_CR0,0,67,98_AL_.jpg",
+            "waktu_scrapping": "18-03-2022 20:25:15"
+      },
+      {
+            "No": "20.",
+            "Judul": "My Brilliant Friend",
+            "Tahun": "(2018- )",
+            "Rating": "8.6",
+            "Image": "https://m.media-amazon.com/images/M/MV5BODU3Nzg5NGMtOTE2MS00YWQ0LTgyYzktMWM3YjNmYjlmZTliXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX67_CR0,0,67,98_AL_.jpg",
+            "waktu_scrapping": "18-03-2022 20:25:16"
+      },
+      {
+            "No": "21.",
+            "Judul": "The Great",
+            "Tahun": "(2020- )",
+            "Rating": "8.2",
+            "Image": "https://m.media-amazon.com/images/M/MV5BYzVmOGNlOTctZGFhZi00MTczLTg1MTEtYTg3ZTNkNjQ2YjRlXkEyXkFqcGdeQXVyNjYxNjc0OTc@._V1_UX67_CR0,0,67,98_AL_.jpg",
+            "waktu_scrapping": "18-03-2022 20:25:17"
+      },
+      {
+            "No": "22.",
+            "Judul": "The Wolf of Wall Street",
+            "Tahun": "(2013)",
+            "Rating": "8.2",
+            "Image": "https://m.media-amazon.com/images/M/MV5BMjIxMjgxNTk0MF5BMl5BanBnXkFtZTgwNjIyOTg2MDE@._V1_UX67_CR0,0,67,98_AL_.jpg",
+            "waktu_scrapping": "18-03-2022 20:25:17"
+      },
+      {
+            "No": "23.",
+            "Judul": "Sex and the City",
+            "Tahun": "(1998-2004)",
+            "Rating": "7.3",
+            "Image": "https://m.media-amazon.com/images/M/MV5BNGEyNDRjM2QtY2VlYy00OWRhLWI4N2UtZTM4NDc0MGM0YzBkXkEyXkFqcGdeQXVyNjk1Njg5NTA@._V1_UX67_CR0,0,67,98_AL_.jpg",
+            "waktu_scrapping": "18-03-2022 20:25:18"
+      },
+      {
+            "No": "24.",
+            "Judul": "Inception",
+            "Tahun": "(2010)",
+            "Rating": "8.8",
+            "Image": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+            "waktu_scrapping": "18-03-2022 20:25:19"
+      },
+      {
+            "No": "25.",
+            "Judul": "House of the Dragon",
+            "Tahun": "(2022- )",
+            "Rating": "8.8",
+            "Image": "https://m.media-amazon.com/images/M/MV5BMTFmZjZjOWItOWY0NC00ZDA1LWFhN2ItMDI1ZGNmNGE2NGJmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+            "waktu_scrapping": "18-03-2022 20:25:20"
+      },
+      {
+            "No": "26.",
+            "Judul": "Curb Your Enthusiasm",
+            "Tahun": "(2000- )",
+            "Rating": "8.8",
+            "Image": "https://m.media-amazon.com/images/M/MV5BMzE3ZDA4OWItOGY2ZC00MzVmLTk0Y2QtNzEzMjc5YWI5ZWFiXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_UX67_CR0,0,67,98_AL_.jpg",
+            "waktu_scrapping": "18-03-2022 20:25:20"
+      },
+      {
+            "No": "27.",
+            "Judul": "The White Lotus",
+            "Tahun": "(2021-2022)",
+            "Rating": "7.6",
+            "Image": "https://m.media-amazon.com/images/M/MV5BOWY1YjY1MWUtYWY5Yi00YTM4LTkyM2UtMDQ3NmFiYTkyYjlkXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+            "waktu_scrapping": "18-03-2022 20:25:21"
+      },
+      {
+            "No": "28.",
+            "Judul": "Band of Brothers",
+            "Tahun": "(2001)",
+            "Rating": "9.4",
+            "Image": "https://m.media-amazon.com/images/M/MV5BMTI3ODc2ODc0M15BMl5BanBnXkFtZTYwMjgzNjc3._V1_UX67_CR0,0,67,98_AL_.jpg",
+            "waktu_scrapping": "18-03-2022 20:25:22"
+      },
+      {
+            "No": "29.",
+            "Judul": "Titanic",
+            "Tahun": "(1997)",
+            "Rating": "7.9",
+            "Image": "https://m.media-amazon.com/images/M/MV5BMDdmZGU3NDQtY2E5My00ZTliLWIzOTUtMTY4ZGI1YjdiNjk3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UX67_CR0,0,67,98_AL_.jpg",
+            "waktu_scrapping": "18-03-2022 20:25:22"
+      },
+      {
+            "No": "30.",
+            "Judul": "Fifty Shades of Grey",
+            "Tahun": "(2015)",
+            "Rating": "4.2",
+            "Image": "https://m.media-amazon.com/images/M/MV5BMjE1MTM4NDAzOF5BMl5BanBnXkFtZTgwNTMwNjI0MzE@._V1_UX67_CR0,0,67,98_AL_.jpg",
+            "waktu_scrapping": "18-03-2022 20:25:23"
+      },
+      {
+            "No": "31.",
+            "Judul": "Mad Max: Fury Road",
+            "Tahun": "(2015)",
+            "Rating": "8.1",
+            "Image": "https://m.media-amazon.com/images/M/MV5BN2EwM2I5OWMtMGQyMi00Zjg1LWJkNTctZTdjYTA4OGUwZjMyXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX67_CR0,0,67,98_AL_.jpg",
+            "waktu_scrapping": "18-03-2022 20:25:24"
+      },
+      {
+            "No": "32.",
+            "Judul": "Django Unchained",
+            "Tahun": "(2012)",
+            "Rating": "8.5",
+            "Image": "https://m.media-amazon.com/images/M/MV5BMjIyNTQ5NjQ1OV5BMl5BanBnXkFtZTcwODg1MDU4OA@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+            "waktu_scrapping": "18-03-2022 20:25:25"
+      },
+      {
+            "No": "33.",
+            "Judul": "Somebody Somewhere",
+            "Tahun": "(2022- )",
+            "Rating": "8.0",
+            "Image": "https://m.media-amazon.com/images/M/MV5BN2JhZTY5ZDUtNzUzNi00NDUxLWE5M2ItNmYxODJlOTkyZjEzXkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_UX67_CR0,0,67,98_AL_.jpg",
+            "waktu_scrapping": "18-03-2022 20:25:25"
+      },
+      {
+            "No": "34.",
+            "Judul": "Mare of Easttown",
+            "Tahun": "(2021)",
+            "Rating": "8.5",
+            "Image": "https://m.media-amazon.com/images/M/MV5BYjIyOGU1NzAtODZmYi00NGMzLWJiMjItNGNjNTFjOTM5ZDJhXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_UX67_CR0,0,67,98_AL_.jpg",
+            "waktu_scrapping": "18-03-2022 20:25:26"
+      },
+      {
+            "No": "35.",
+            "Judul": "Watchmen",
+            "Tahun": "(2009)",
+            "Rating": "7.7",
+            "Image": "https://m.media-amazon.com/images/M/MV5BY2IzNGNiODgtOWYzOS00OTI0LTgxZTUtOTA5OTQ5YmI3NGUzXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX67_CR0,0,67,98_AL_.jpg",
+            "waktu_scrapping": "18-03-2022 20:25:27"
+      },
+      {
+            "No": "36.",
+            "Judul": "True Blood",
+            "Tahun": "(2008-2014)",
+            "Rating": "7.9",
+            "Image": "https://m.media-amazon.com/images/M/MV5BMDVjZDQ2N2MtMzMxYy00ZjliLTg5YjAtNjk1OTUwYjVjNWQ0XkEyXkFqcGdeQXVyNzA5NjUyNjM@._V1_UX67_CR0,0,67,98_AL_.jpg",
+            "waktu_scrapping": "18-03-2022 20:25:27"
+      },
+      {
+            "No": "37.",
+            "Judul": "John Carter",
+            "Tahun": "(2012)",
+            "Rating": "6.6",
+            "Image": "https://m.media-amazon.com/images/M/MV5BMDEwZmIzNjYtNjUwNS00MzgzLWJiOGYtZWMxZGQ5NDcxZjUwXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_UY98_CR2,0,67,98_AL_.jpg",
+            "waktu_scrapping": "18-03-2022 20:25:28"
+      },
+      {
+            "No": "38.",
+            "Judul": "Contagion",
+            "Tahun": "(2011)",
+            "Rating": "6.8",
+            "Image": "https://m.media-amazon.com/images/M/MV5BMTY3MDk5MDc3OV5BMl5BanBnXkFtZTcwNzAyNTg0Ng@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+            "waktu_scrapping": "18-03-2022 20:25:29"
+      },
+      {
+            "No": "39.",
+            "Judul": "Big Little Lies",
+            "Tahun": "(2017-2019)",
+            "Rating": "8.5",
+            "Image": "https://m.media-amazon.com/images/M/MV5BZmNjYzdjN2ItOTBlNy00Mjc0LWE4YmMtYTQ4ZjQzNTMyNDc4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+            "waktu_scrapping": "18-03-2022 20:25:30"
+      },
+      {
+            "No": "40.",
+            "Judul": "The Many Saints of Newark",
+            "Tahun": "(2021)",
+            "Rating": "6.3",
+            "Image": "https://m.media-amazon.com/images/M/MV5BYmQzNmY3YzItOTE3OC00NGZjLTkwZDYtOWVmM2QyMzhiYTgwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+            "waktu_scrapping": "18-03-2022 20:25:30"
+      },
+      {
+            "No": "41.",
+            "Judul": "Banshee",
+            "Tahun": "(2013-2016)",
+            "Rating": "8.5",
+            "Image": "https://m.media-amazon.com/images/M/MV5BMTkzNTA1MDI5M15BMl5BanBnXkFtZTcwNTY3NjAwOQ@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+            "waktu_scrapping": "18-03-2022 20:25:31"
+      },
+      {
+            "No": "42.",
+            "Judul": "Star Wars",
+            "Tahun": "(1977)",
+            "Rating": "8.6",
+            "Image": "https://m.media-amazon.com/images/M/MV5BNzVlY2MwMjktM2E4OS00Y2Y3LWE3ZjctYzhkZGM3YzA1ZWM2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX67_CR0,0,67,98_AL_.jpg",
+            "waktu_scrapping": "18-03-2022 20:25:32"
+      },
+      {
+            "No": "43.",
+            "Judul": "Avatar",
+            "Tahun": "(2009)",
+            "Rating": "7.9",
+            "Image": "https://m.media-amazon.com/images/M/MV5BMTYwOTEwNjAzMl5BMl5BanBnXkFtZTcwODc5MTUwMw@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+            "waktu_scrapping": "18-03-2022 20:25:33"
+      },
+      {
+            "No": "44.",
+            "Judul": "Scream 4",
+            "Tahun": "(2011)",
+            "Rating": "6.2",
+            "Image": "https://m.media-amazon.com/images/M/MV5BMTk5OTcxNTUyNF5BMl5BanBnXkFtZTcwMDczMzE0NA@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+            "waktu_scrapping": "18-03-2022 20:25:33"
+      },
+      {
+            "No": "45.",
+            "Judul": "Fast Times at Ridgemont High",
+            "Tahun": "(1982)",
+            "Rating": "7.1",
+            "Image": "https://m.media-amazon.com/images/M/MV5BYzBlZjE1MDctYjZmZC00ZTJmLWFkOWEtYjdmZDZkODBkZmI2XkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_UX67_CR0,0,67,98_AL_.jpg",
+            "waktu_scrapping": "18-03-2022 20:25:34"
+      },
+      {
+            "No": "46.",
+            "Judul": "And Just Like That...",
+            "Tahun": "(2021- )",
+            "Rating": "5.6",
+            "Image": "https://m.media-amazon.com/images/M/MV5BZjFmOGUzMGYtMGYyMS00MzQyLTg2MGEtNzJjMjFlNDkyZGYxXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_UX67_CR0,0,67,98_AL_.jpg",
+            "waktu_scrapping": "18-03-2022 20:25:35"
+      },
+      {
+            "No": "47.",
+            "Judul": "The King of Staten Island",
+            "Tahun": "(2020)",
+            "Rating": "7.1",
+            "Image": "https://m.media-amazon.com/images/M/MV5BYzkxMzMzOTgtNmZhMS00MGM0LTk3MzUtMjE1MzI4MzU5ZjkzXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+            "waktu_scrapping": "18-03-2022 20:25:35"
+      },
+      {
+            "No": "48.",
+            "Judul": "Ex Machina",
+            "Tahun": "(2014)",
+            "Rating": "7.7",
+            "Image": "https://m.media-amazon.com/images/M/MV5BMTUxNzc0OTIxMV5BMl5BanBnXkFtZTgwNDI3NzU2NDE@._V1_UX67_CR0,0,67,98_AL_.jpg",
+            "waktu_scrapping": "18-03-2022 20:25:36"
+      },
+      {
+            "No": "49.",
+            "Judul": "Boardwalk Empire",
+            "Tahun": "(2010-2014)",
+            "Rating": "8.6",
+            "Image": "https://m.media-amazon.com/images/M/MV5BYTYxNzc5ZmYtODcyNi00ZWUwLWExNWUtY2Y0YTlhZDBlMGU1XkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_UY98_CR0,0,67,98_AL_.jpg",
+            "waktu_scrapping": "18-03-2022 20:25:37"
+      },
+      {
+            "No": "50.",
+            "Judul": "The Shining",
+            "Tahun": "(1980)",
+            "Rating": "8.4",
+            "Image": "https://m.media-amazon.com/images/M/MV5BZWFlYmY2MGEtZjVkYS00YzU4LTg0YjQtYzY1ZGE3NTA5NGQxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX67_CR0,0,67,98_AL_.jpg",
+            "waktu_scrapping": "18-03-2022 20:25:38"
+      },
+      {
+            "No": "51.",
+            "Judul": "Ray Donovan",
+            "Tahun": "(2013-2020)",
+            "Rating": "8.3",
+            "Image": "https://m.media-amazon.com/images/M/MV5BZWQxZTUxZGQtOWQxZS00MWYxLWJiNTQtZmI0YWNhOTJmZjkwXkEyXkFqcGdeQXVyOTA3MTMyOTk@._V1_UX67_CR0,0,67,98_AL_.jpg",
+            "waktu_scrapping": "18-03-2022 20:25:42"
+      },
+      {
+            "No": "52.",
+            "Judul": "Barry",
+            "Tahun": "(2018- )",
+            "Rating": "8.3",
+            "Image": "https://m.media-amazon.com/images/M/MV5BMmY1NTk5N2QtYWQyOS00NjhiLWFhZmYtYWZmZGFlMjEzY2E2XkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_UX67_CR0,0,67,98_AL_.jpg",
+            "waktu_scrapping": "18-03-2022 20:25:43"
+      },
+      {
+            "No": "53.",
+            "Judul": "His Dark Materials",
+            "Tahun": "(2019-2022)",
+            "Rating": "7.9",
+            "Image": "https://m.media-amazon.com/images/M/MV5BYmI0M2YwZGItZGYxOC00NTc5LTljY2EtYjBjMTE0MDkxNTMwXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+            "waktu_scrapping": "18-03-2022 20:25:44"
+      },
+      {
+            "No": "54.",
+            "Judul": "The Equalizer",
+            "Tahun": "(2014)",
+            "Rating": "7.2",
+            "Image": "https://m.media-amazon.com/images/M/MV5BMTQ2MzE2NTk0NF5BMl5BanBnXkFtZTgwOTM3NTk1MjE@._V1_UX67_CR0,0,67,98_AL_.jpg",
+            "waktu_scrapping": "18-03-2022 20:25:45"
+      },
+      {
+            "No": "55.",
+            "Judul": "The Amazing Spider-Man",
+            "Tahun": "(2012)",
+            "Rating": "7.0",
+            "Image": "https://m.media-amazon.com/images/M/MV5BMjMyOTM4MDMxNV5BMl5BanBnXkFtZTcwNjIyNzExOA@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+            "waktu_scrapping": "18-03-2022 20:25:46"
+      },
+      {
+            "No": "56.",
+            "Judul": "The Hangover",
+            "Tahun": "(2009)",
+            "Rating": "7.7",
+            "Image": "https://m.media-amazon.com/images/M/MV5BNGQwZjg5YmYtY2VkNC00NzliLTljYTctNzI5NmU3MjE2ODQzXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX67_CR0,0,67,98_AL_.jpg",
+            "waktu_scrapping": "18-03-2022 20:25:47"
+      },
+      {
+            "No": "57.",
+            "Judul": "The Leftovers",
+            "Tahun": "(2014-2017)",
+            "Rating": "8.4",
+            "Image": "https://m.media-amazon.com/images/M/MV5BNTE3MDc1MjY4NV5BMl5BanBnXkFtZTgwMDg4MjQ4MTE@._V1_UX67_CR0,0,67,98_AL_.jpg",
+            "waktu_scrapping": "18-03-2022 20:25:48"
+      },
+      {
+            "No": "58.",
+            "Judul": "The Gift",
+            "Tahun": "(VI) (2015)",
+            "Rating": "7.1",
+            "Image": "https://m.media-amazon.com/images/M/MV5BNGFmY2UyMmYtNDY1Yi00NTIwLTk1ZDktOGM2OTQwZDk0NjU5XkEyXkFqcGdeQXVyMjQwMjk0NjI@._V1_UX67_CR0,0,67,98_AL_.jpg",
+            "waktu_scrapping": "18-03-2022 20:25:49"
+      },
+      {
+            "No": "59.",
+            "Judul": "Six Feet Under",
+            "Tahun": "(2001-2005)",
+            "Rating": "8.8",
+            "Image": "https://m.media-amazon.com/images/M/MV5BN2FmMjg0Y2YtYmMyYi00MTBjLTllYzMtN2VjYzRhOTVmNWRlXkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_UY98_CR1,0,67,98_AL_.jpg",
+            "waktu_scrapping": "18-03-2022 20:25:50"
+      },
+      {
+            "No": "60.",
+            "Judul": "The Lego Batman Movie",
+            "Tahun": "(2017)",
+            "Rating": "7.3",
+            "Image": "https://m.media-amazon.com/images/M/MV5BMTcyNTEyOTY0M15BMl5BanBnXkFtZTgwOTAyNzU3MDI@._V1_UX67_CR0,0,67,98_AL_.jpg",
+            "waktu_scrapping": "18-03-2022 20:25:51"
+      },
+      {
+            "No": "61.",
+            "Judul": "Donnie Darko",
+            "Tahun": "(2001)",
+            "Rating": "8.0",
+            "Image": "https://m.media-amazon.com/images/M/MV5BZjZlZDlkYTktMmU1My00ZDBiLWFlNjEtYTBhNjVhOTM4ZjJjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX67_CR0,0,67,98_AL_.jpg",
+            "waktu_scrapping": "18-03-2022 20:25:52"
+      },
+      {
+            "No": "62.",
+            "Judul": "Star Wars: Episode III - Revenge of the Sith",
+            "Tahun": "(2005)",
+            "Rating": "7.6",
+            "Image": "https://m.media-amazon.com/images/M/MV5BNTc4MTc3NTQ5OF5BMl5BanBnXkFtZTcwOTg0NjI4NA@@._V1_UY98_CR3,0,67,98_AL_.jpg",
+            "waktu_scrapping": "18-03-2022 20:25:52"
+      },
+      {
+            "No": "63.",
+            "Judul": "The Town",
+            "Tahun": "(2010)",
+            "Rating": "7.5",
+            "Image": "https://m.media-amazon.com/images/M/MV5BMTcyNzcxODg3Nl5BMl5BanBnXkFtZTcwMTUyNjQ3Mw@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+            "waktu_scrapping": "18-03-2022 20:25:53"
+      },
+      {
+            "No": "64.",
+            "Judul": "Man of Steel",
+            "Tahun": "(2013)",
+            "Rating": "7.1",
+            "Image": "https://m.media-amazon.com/images/M/MV5BMTk5ODk1NDkxMF5BMl5BanBnXkFtZTcwNTA5OTY0OQ@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+            "waktu_scrapping": "18-03-2022 20:25:54"
+      },
+      {
+            "No": "65.",
+            "Judul": "Black Sails",
+            "Tahun": "(2014-2017)",
+            "Rating": "8.3",
+            "Image": "https://m.media-amazon.com/images/M/MV5BZmExNzU1M2YtNGUzOC00MmM0LWEwYzYtZWJiYjYxNDcwY2E0XkEyXkFqcGdeQXVyMTYzMDM0NTU@._V1_UX67_CR0,0,67,98_AL_.jpg",
+            "waktu_scrapping": "18-03-2022 20:25:55"
+      },
+      {
+            "No": "66.",
+            "Judul": "Entourage",
+            "Tahun": "(2004-2011)",
+            "Rating": "8.5",
+            "Image": "https://m.media-amazon.com/images/M/MV5BZDg3ZDc2MDQtNzQwZi00YzFjLTgyOTMtMDMzZTc5N2VlNTg2XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UY98_CR2,0,67,98_AL_.jpg",
+            "waktu_scrapping": "18-03-2022 20:25:55"
+      },
+      {
+            "No": "67.",
+            "Judul": "The Avengers",
+            "Tahun": "(2012)",
+            "Rating": "8.1",
+            "Image": "https://m.media-amazon.com/images/M/MV5BNDYxNjQyMjAtNTdiOS00NGYwLWFmNTAtNThmYjU5ZGI2YTI1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX67_CR0,0,67,98_AL_.jpg",
+            "waktu_scrapping": "18-03-2022 20:25:56"
+      },
+      {
+            "No": "68.",
+            "Judul": "One Flew Over the Cuckoo's Nest",
+            "Tahun": "(1975)",
+            "Rating": "8.7",
+            "Image": "https://m.media-amazon.com/images/M/MV5BZjA0OWVhOTAtYWQxNi00YzNhLWI4ZjYtNjFjZTEyYjJlNDVlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX67_CR0,0,67,98_AL_.jpg",
+            "waktu_scrapping": "18-03-2022 20:25:57"
+      },
+      {
+            "No": "69.",
+            "Judul": "Silicon Valley",
+            "Tahun": "(2014-2019)",
+            "Rating": "8.5",
+            "Image": "https://m.media-amazon.com/images/M/MV5BM2Q5YjNjZWMtYThmYy00N2ZjLWE2NDctNmZjMmZjYWE2NjEwXkEyXkFqcGdeQXVyMTAzMDM4MjM0._V1_UY98_CR1,0,67,98_AL_.jpg",
+            "waktu_scrapping": "18-03-2022 20:25:58"
+      },
+      {
+            "No": "70.",
+            "Judul": "Transformers",
+            "Tahun": "(2007)",
+            "Rating": "7.1",
+            "Image": "https://m.media-amazon.com/images/M/MV5BNDg1NTU2OWEtM2UzYi00ZWRmLWEwMTktZWNjYWQ1NWM1OThjXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX67_CR0,0,67,98_AL_.jpg",
+            "waktu_scrapping": "18-03-2022 20:25:58"
+      },
+      {
+            "No": "71.",
+            "Judul": "The Other Guys",
+            "Tahun": "(2010)",
+            "Rating": "6.6",
+            "Image": "https://m.media-amazon.com/images/M/MV5BMDlhZDQ5NDUtNDcwMi00MTQ5LTk1Y2UtYjNmMjgzNzNhNzU3XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UX67_CR0,0,67,98_AL_.jpg",
+            "waktu_scrapping": "18-03-2022 20:25:59"
+      },
+      {
+            "No": "72.",
+            "Judul": "Deadwood",
+            "Tahun": "(2004-2006)",
+            "Rating": "8.6",
+            "Image": "https://m.media-amazon.com/images/M/MV5BNDJhMjUzMDYtNzc4MS00Nzk2LTkyMGQtN2M5NTczYTZmYmY5XkEyXkFqcGdeQXVyMzU3MTc5OTE@._V1_UX67_CR0,0,67,98_AL_.jpg",
+            "waktu_scrapping": "18-03-2022 20:26:00"
+      },
+      {
+            "No": "73.",
+            "Judul": "Pacific Rim",
+            "Tahun": "(2013)",
+            "Rating": "6.9",
+            "Image": "https://m.media-amazon.com/images/M/MV5BMTY3MTI5NjQ4Nl5BMl5BanBnXkFtZTcwOTU1OTU0OQ@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+            "waktu_scrapping": "18-03-2022 20:26:00"
+      },
+      {
+            "No": "74.",
+            "Judul": "Fury",
+            "Tahun": "(2014)",
+            "Rating": "7.6",
+            "Image": "https://m.media-amazon.com/images/M/MV5BMjA4MDU0NTUyN15BMl5BanBnXkFtZTgwMzQxMzY4MjE@._V1_UX67_CR0,0,67,98_AL_.jpg",
+            "waktu_scrapping": "18-03-2022 20:26:01"
+      },
+      {
+            "No": "75.",
+            "Judul": "The Great Gatsby",
+            "Tahun": "(2013)",
+            "Rating": "7.2",
+            "Image": "https://m.media-amazon.com/images/M/MV5BMTkxNTk1ODcxNl5BMl5BanBnXkFtZTcwMDI1OTMzOQ@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+            "waktu_scrapping": "18-03-2022 20:26:02"
+      },
+      {
+            "No": "76.",
+            "Judul": "Harry Potter and the Deathly Hallows: Part 2",
+            "Tahun": "(2011)",
+            "Rating": "8.2",
+            "Image": "https://m.media-amazon.com/images/M/MV5BMGVmMWNiMDktYjQ0Mi00MWIxLTk0N2UtN2ZlYTdkN2IzNDNlXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UX67_CR0,0,67,98_AL_.jpg",
+            "waktu_scrapping": "18-03-2022 20:26:03"
+      },
+      {
+            "No": "77.",
+            "Judul": "Dracula Untold",
+            "Tahun": "(2014)",
+            "Rating": "6.2",
+            "Image": "https://m.media-amazon.com/images/M/MV5BMTkzNzI1OTI4N15BMl5BanBnXkFtZTgwNTQ2NzEwMjE@._V1_UX67_CR0,0,67,98_AL_.jpg",
+            "waktu_scrapping": "18-03-2022 20:26:03"
+      },
+      {
+            "No": "78.",
+            "Judul": "Rome",
+            "Tahun": "(2005-2007)",
+            "Rating": "8.7",
+            "Image": "https://m.media-amazon.com/images/M/MV5BYTM4MmU1NWYtNzJjYy00YWFhLThjOGEtZmMxOGI1NzE0NGNiXkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_UX67_CR0,0,67,98_AL_.jpg",
+            "waktu_scrapping": "18-03-2022 20:26:04"
+      },
+      {
+            "No": "79.",
+            "Judul": "Sharp Objects",
+            "Tahun": "(2018)",
+            "Rating": "8.1",
+            "Image": "https://m.media-amazon.com/images/M/MV5BZDk2NzY1MGQtYTA2MS00ZDcxLWJiMzYtNWRmMGU3ZjQ0YTFjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX67_CR0,0,67,98_AL_.jpg",
+            "waktu_scrapping": "18-03-2022 20:26:05"
+      },
+      {
+            "No": "80.",
+            "Judul": "The Social Network",
+            "Tahun": "(2010)",
+            "Rating": "7.8",
+            "Image": "https://m.media-amazon.com/images/M/MV5BOGUyZDUxZjEtMmIzMC00MzlmLTg4MGItZWJmMzBhZjE0Mjc1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX67_CR0,0,67,98_AL_.jpg",
+            "waktu_scrapping": "18-03-2022 20:26:05"
+      },
+      {
+            "No": "81.",
+            "Judul": "Blended",
+            "Tahun": "(2014)",
+            "Rating": "6.5",
+            "Image": "https://m.media-amazon.com/images/M/MV5BNzc2ODI5NjAyMl5BMl5BanBnXkFtZTgwMzIyOTE4MDE@._V1_UX67_CR0,0,67,98_AL_.jpg",
+            "waktu_scrapping": "18-03-2022 20:26:06"
+      },
+      {
+            "No": "82.",
+            "Judul": "Harry Potter and the Deathly Hallows: Part 1",
+            "Tahun": "(2010)",
+            "Rating": "7.7",
+            "Image": "https://m.media-amazon.com/images/M/MV5BMTQ2OTE1Mjk0N15BMl5BanBnXkFtZTcwODE3MDAwNA@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+            "waktu_scrapping": "18-03-2022 20:26:07"
+      },
+      {
+            "No": "83.",
+            "Judul": "A Clockwork Orange",
+            "Tahun": "(1971)",
+            "Rating": "8.3",
+            "Image": "https://m.media-amazon.com/images/M/MV5BMTY3MjM1Mzc4N15BMl5BanBnXkFtZTgwODM0NzAxMDE@._V1_UX67_CR0,0,67,98_AL_.jpg",
+            "waktu_scrapping": "18-03-2022 20:26:08"
+      },
+      {
+            "No": "84.",
+            "Judul": "This Is 40",
+            "Tahun": "(2012)",
+            "Rating": "6.2",
+            "Image": "https://m.media-amazon.com/images/M/MV5BNzQxMDQ1NjA4N15BMl5BanBnXkFtZTcwNTE5MjQ3OA@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+            "waktu_scrapping": "18-03-2022 20:26:08"
+      },
+      {
+            "No": "85.",
+            "Judul": "Frozen",
+            "Tahun": "(I) (2013)",
+            "Rating": "7.5",
+            "Image": "https://m.media-amazon.com/images/M/MV5BMTQ1MjQwMTE5OF5BMl5BanBnXkFtZTgwNjk3MTcyMDE@._V1_UX67_CR0,0,67,98_AL_.jpg",
+            "waktu_scrapping": "18-03-2022 20:26:09"
+      },
+      {
+            "No": "86.",
+            "Judul": "E.T. the Extra-Terrestrial",
+            "Tahun": "(1982)",
+            "Rating": "7.9",
+            "Image": "https://m.media-amazon.com/images/M/MV5BMTQ2ODFlMDAtNzdhOC00ZDYzLWE3YTMtNDU4ZGFmZmJmYTczXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX67_CR0,0,67,98_AL_.jpg",
+            "waktu_scrapping": "18-03-2022 20:26:10"
+      },
+      {
+            "No": "87.",
+            "Judul": "Knock Knock",
+            "Tahun": "(I) (2015)",
+            "Rating": "4.8",
+            "Image": "https://m.media-amazon.com/images/M/MV5BYTQ3MzhlZjQtNWMxOS00NTEzLTgzOWYtNTI3MjhmZGU0ZDM2XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY98_CR1,0,67,98_AL_.jpg",
+            "waktu_scrapping": "18-03-2022 20:26:11"
+      },
+      {
+            "No": "88.",
+            "Judul": "The Terminator",
+            "Tahun": "(1984)",
+            "Rating": "8.1",
+            "Image": "https://m.media-amazon.com/images/M/MV5BYTViNzMxZjEtZGEwNy00MDNiLWIzNGQtZDY2MjQ1OWViZjFmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX67_CR0,0,67,98_AL_.jpg",
+            "waktu_scrapping": "18-03-2022 20:26:11"
+      },
+      {
+            "No": "89.",
+            "Judul": "About Time",
+            "Tahun": "(I) (2013)",
+            "Rating": "7.8",
+            "Image": "https://m.media-amazon.com/images/M/MV5BMTA1ODUzMDA3NzFeQTJeQWpwZ15BbWU3MDgxMTYxNTk@._V1_UX67_CR0,0,67,98_AL_.jpg",
+            "waktu_scrapping": "18-03-2022 20:26:12"
+      },
+      {
+            "No": "90.",
+            "Judul": "Watchmen",
+            "Tahun": "(2019)",
+            "Rating": "8.2",
+            "Image": "https://m.media-amazon.com/images/M/MV5BYjhhZDE3NjgtMjkzNC00NzI3LWJhOTItMWQ5ZjljODA5NWNkXkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_UX67_CR0,0,67,98_AL_.jpg",
+            "waktu_scrapping": "18-03-2022 20:26:13"
+      },
+      {
+            "No": "91.",
+            "Judul": "Just Go with It",
+            "Tahun": "(2011)",
+            "Rating": "6.4",
+            "Image": "https://m.media-amazon.com/images/M/MV5BMTM3MzM3NDE5MV5BMl5BanBnXkFtZTcwNDE5MTUxNA@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+            "waktu_scrapping": "18-03-2022 20:26:13"
+      },
+      {
+            "No": "92.",
+            "Judul": "Star Wars: Episode V - The Empire Strikes Back",
+            "Tahun": "(1980)",
+            "Rating": "8.7",
+            "Image": "https://m.media-amazon.com/images/M/MV5BYmU1NDRjNDgtMzhiMi00NjZmLTg5NGItZDNiZjU5NTU4OTE0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX67_CR0,0,67,98_AL_.jpg",
+            "waktu_scrapping": "18-03-2022 20:26:14"
+      },
+      {
+            "No": "93.",
+            "Judul": "Wanted",
+            "Tahun": "(2008)",
+            "Rating": "6.7",
+            "Image": "https://m.media-amazon.com/images/M/MV5BMTQwNDM2MTMwMl5BMl5BanBnXkFtZTgwMjE4NjQxMTE@._V1_UX67_CR0,0,67,98_AL_.jpg",
+            "waktu_scrapping": "18-03-2022 20:26:15"
+      },
+      {
+            "No": "94.",
+            "Judul": "Veep",
+            "Tahun": "(2012-2019)",
+            "Rating": "8.4",
+            "Image": "https://m.media-amazon.com/images/M/MV5BMjE2NDM0OTEwMl5BMl5BanBnXkFtZTgwNzgwNDI0ODE@._V1_UX67_CR0,0,67,98_AL_.jpg",
+            "waktu_scrapping": "18-03-2022 20:26:15"
+      },
+      {
+            "No": "95.",
+            "Judul": "Jurassic World",
+            "Tahun": "(2015)",
+            "Rating": "7.0",
+            "Image": "https://m.media-amazon.com/images/M/MV5BNzQ3OTY4NjAtNzM5OS00N2ZhLWJlOWUtYzYwZjNmOWRiMzcyXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX67_CR0,0,67,98_AL_.jpg",
+            "waktu_scrapping": "18-03-2022 20:26:16"
+      },
+      {
+            "No": "96.",
+            "Judul": "Oz",
+            "Tahun": "(1997-2003)",
+            "Rating": "8.7",
+            "Image": "https://m.media-amazon.com/images/M/MV5BYjY3N2M2YjgtZTFjZS00ODA1LWJjMDgtNDgxZDllZWFiMmYyXkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_UX67_CR0,0,67,98_AL_.jpg",
+            "waktu_scrapping": "18-03-2022 20:26:17"
+      },
+      {
+            "No": "97.",
+            "Judul": "The Nevers",
+            "Tahun": "(2021- )",
+            "Rating": "7.4",
+            "Image": "https://m.media-amazon.com/images/M/MV5BODEyOWY2ZDctOGI3Zi00YjYwLWIwZDEtMzJlY2VhYTA2N2ViXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_UX67_CR0,0,67,98_AL_.jpg",
+            "waktu_scrapping": "18-03-2022 20:26:18"
+      },
+      {
+            "No": "98.",
+            "Judul": "A Nightmare on Elm Street",
+            "Tahun": "(1984)",
+            "Rating": "7.5",
+            "Image": "https://m.media-amazon.com/images/M/MV5BNzFjZmM1ODgtMDBkMS00NWFlLTg2YmUtZjc3ZTgxMjE1OTI2L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+            "waktu_scrapping": "18-03-2022 20:26:18"
+      },
+      {
+            "No": "99.",
+            "Judul": "The Night Of",
+            "Tahun": "(2016)",
+            "Rating": "8.5",
+            "Image": "https://m.media-amazon.com/images/M/MV5BMjQyOTgxMDI0Nl5BMl5BanBnXkFtZTgwOTE4MzczOTE@._V1_UX67_CR0,0,67,98_AL_.jpg",
+            "waktu_scrapping": "18-03-2022 20:26:19"
+      },
+      {
+            "No": "100.",
+            "Judul": "Crazy, Stupid, Love.",
+            "Tahun": "(2011)",
+            "Rating": "7.4",
+            "Image": "https://m.media-amazon.com/images/M/MV5BMTg2MjkwMTM0NF5BMl5BanBnXkFtZTcwMzc4NDg2NQ@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+            "waktu_scrapping": "18-03-2022 20:26:20"
+      }
+]
